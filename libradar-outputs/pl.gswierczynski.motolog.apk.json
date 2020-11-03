@@ -1,0 +1,36 @@
+{
+    "count": 6,
+    "data": [
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/pl.gswierczynski.motolog.apk"
+}

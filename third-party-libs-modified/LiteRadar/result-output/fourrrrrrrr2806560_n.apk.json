@@ -1,0 +1,66 @@
+{
+    "count": 12,
+    "data": [
+        {
+            "count": 4,
+            "package": "Lorg/xclcharts/c",
+            "present": true
+        },
+        {
+            "count": 42,
+            "package": "Lorg/xclcharts/d",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lorg/xclcharts/c/b",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lorg/xclcharts/d/a",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/xclcharts/view",
+            "present": true
+        },
+        {
+            "count": 24,
+            "package": "Lorg/xclcharts/a",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/xclcharts/b",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/xclcharts/d/c",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/xclcharts/d/b",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/xclcharts/c/a",
+            "present": true
+        },
+        {
+            "count": 76,
+            "package": "Lorg/xclcharts",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/xclcharts/d/d",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr2806560&n.apk"
+}

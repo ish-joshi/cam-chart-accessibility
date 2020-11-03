@@ -1,0 +1,66 @@
+{
+    "count": 12,
+    "data": [
+        {
+            "count": 9,
+            "package": "Lcom/chartboost/sdk/Libraries",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lcom/chartboost/sdk/Networking",
+            "present": true
+        },
+        {
+            "count": 132,
+            "package": "Lcom/chartboost/sdk",
+            "present": true
+        },
+        {
+            "count": 81,
+            "package": "Lcom/chartboost/sdk/impl",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/chartboost/sdk/Model",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/e",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/chartboost/sdk/Tracking",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/InPlay",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/b",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/d",
+            "present": true
+        },
+        {
+            "count": 132,
+            "package": "Lcom/chart",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/c",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/cloud.money.server.mining.apk"
+}

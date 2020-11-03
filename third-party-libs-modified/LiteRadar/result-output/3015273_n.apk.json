@@ -1,0 +1,86 @@
+{
+    "count": 16,
+    "data": [
+        {
+            "count": 6,
+            "package": "Lcom/github/mikephil/charting/components",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 80,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/a",
+            "present": true
+        },
+        {
+            "count": 21,
+            "package": "Lcom/github/mikephil/charting/g",
+            "present": true
+        },
+        {
+            "count": 23,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 80,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/l",
+            "present": true
+        },
+        {
+            "count": 18,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/github/mikephil/charting/h",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/animation",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/data/filter",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/github/mikephil/charting/b",
+            "present": true
+        },
+        {
+            "count": 23,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/e",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/listener",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/3015273&n.apk"
+}

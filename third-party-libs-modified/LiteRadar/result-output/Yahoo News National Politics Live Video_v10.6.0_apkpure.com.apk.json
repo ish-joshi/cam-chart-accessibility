@@ -1,0 +1,36 @@
+{
+    "count": 6,
+    "data": [
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/Yahoo News National Politics Live Video_v10.6.0_apkpure.com.apk"
+}

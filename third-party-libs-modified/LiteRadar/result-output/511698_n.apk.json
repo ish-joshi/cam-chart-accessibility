@@ -1,0 +1,81 @@
+{
+    "count": 15,
+    "data": [
+        {
+            "count": 1,
+            "package": "Lorg/afree/chart/entity",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lorg/afree/chart/labels",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lorg/afree/chart/util",
+            "present": true
+        },
+        {
+            "count": 103,
+            "package": "Lorg/afree/chart",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lorg/afree/chart/renderer/xy",
+            "present": true
+        },
+        {
+            "count": 22,
+            "package": "Lorg/afree/chart/plot",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lorg/afree/chart/block",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/afree/chart/event",
+            "present": true
+        },
+        {
+            "count": 23,
+            "package": "Lorg/afree/chart/renderer",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/afree/chart/text",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/afree/chart/title",
+            "present": true
+        },
+        {
+            "count": 18,
+            "package": "Lorg/afree/chart/axis",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lorg/afree/chart/renderer/category",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lorg/afree/chart/plot/dial",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/afree/chart/annotations",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/511698&n.apk"
+}

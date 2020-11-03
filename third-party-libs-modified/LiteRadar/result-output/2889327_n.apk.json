@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 13,
+            "package": "Lcn/kline/chart",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcn/kline/chart/minute",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcn/kline/chart/candle",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2889327&n.apk"
+}

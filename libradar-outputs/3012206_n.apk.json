@@ -1,0 +1,51 @@
+{
+    "count": 9,
+    "data": [
+        {
+            "count": 3,
+            "package": "Lcom/mitake/widget/stockchart",
+            "present": true
+        },
+        {
+            "count": 20,
+            "package": "Lcom/mitake/finance/chart/widget",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/mitake/finance/chart/tools",
+            "present": true
+        },
+        {
+            "count": 28,
+            "package": "Lcom/mitake/finance/chart/a",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/mitake/finance/chart/data",
+            "present": true
+        },
+        {
+            "count": 13,
+            "package": "Lcom/mitake/finance/chart/widget/hlist",
+            "present": true
+        },
+        {
+            "count": 56,
+            "package": "Lcom/mitake/finance/chart/formula",
+            "present": true
+        },
+        {
+            "count": 28,
+            "package": "Lcom/mitake/finance/chart/after",
+            "present": true
+        },
+        {
+            "count": 117,
+            "package": "Lcom/mitake/finance/chart",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/3012206&n.apk"
+}

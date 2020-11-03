@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 3,
+            "package": "Lcom/tsci/smxtradechartview/view",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lcom/tsci/smxtradechartview",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/tsci/smxtradechartview/c",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2617646&n.apk"
+}

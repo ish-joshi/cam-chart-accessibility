@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 17,
+            "package": "Lcn/limc/androidcharts",
+            "present": true
+        },
+        {
+            "count": 15,
+            "package": "Lcn/limc/androidcharts/view",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcn/limc/androidcharts/entity",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2058103&n.apk"
+}

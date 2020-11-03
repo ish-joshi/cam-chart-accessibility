@@ -1,0 +1,61 @@
+{
+    "count": 11,
+    "data": [
+        {
+            "count": 6,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/github/mikephil/charting/h",
+            "present": true
+        },
+        {
+            "count": 49,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/listener",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/l",
+            "present": true
+        },
+        {
+            "count": 49,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 17,
+            "package": "Lcom/github/mikephil/charting/g",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/github/mikephil/charting/components",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.edurev.cacpt.apk"
+}

@@ -1,0 +1,26 @@
+{
+    "count": 4,
+    "data": [
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.expensemanager.apk"
+}

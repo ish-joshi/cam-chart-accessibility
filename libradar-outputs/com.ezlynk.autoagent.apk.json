@@ -1,0 +1,26 @@
+{
+    "count": 4,
+    "data": [
+        {
+            "count": 192,
+            "package": "Lcom/scichart/charting",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/scichart/charting/numerics",
+            "present": true
+        },
+        {
+            "count": 115,
+            "package": "Lcom/scichart/charting/visuals",
+            "present": true
+        },
+        {
+            "count": 37,
+            "package": "Lcom/scichart/charting/modifiers",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.ezlynk.autoagent.apk"
+}

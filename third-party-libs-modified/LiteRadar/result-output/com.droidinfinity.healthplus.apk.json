@@ -1,0 +1,46 @@
+{
+    "count": 8,
+    "data": [
+        {
+            "count": 5,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/a",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/jobs",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/animation",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/j",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.droidinfinity.healthplus.apk"
+}

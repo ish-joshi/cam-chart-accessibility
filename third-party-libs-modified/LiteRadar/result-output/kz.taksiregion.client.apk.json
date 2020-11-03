@@ -1,0 +1,61 @@
+{
+    "count": 11,
+    "data": [
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 57,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/a",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/github/mikephil/charting/f",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 57,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/h",
+            "present": true
+        },
+        {
+            "count": 21,
+            "package": "Lcom/github/mikephil/charting/j",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/github/mikephil/charting/k",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/github/mikephil/charting/e",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/kz.taksiregion.client.apk"
+}

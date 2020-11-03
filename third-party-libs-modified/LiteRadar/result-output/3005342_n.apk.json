@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 41,
+            "package": "Lcn/futu/chart/widget",
+            "present": true
+        },
+        {
+            "count": 84,
+            "package": "Lcn/futu/chart",
+            "present": true
+        },
+        {
+            "count": 26,
+            "package": "Lcn/futu/chart/widget/chart",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/3005342&n.apk"
+}

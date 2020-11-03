@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 1,
+            "package": "Lcom/chart",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartbeat",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartbeat/androidsdk",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/android.AbcApplication.apk"
+}

@@ -1,0 +1,36 @@
+{
+    "count": 6,
+    "data": [
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.madradavid.pay24.apk"
+}

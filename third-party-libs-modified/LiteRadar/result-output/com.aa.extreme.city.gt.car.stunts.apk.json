@@ -1,0 +1,66 @@
+{
+    "count": 12,
+    "data": [
+        {
+            "count": 13,
+            "package": "Lcom/chartboost/sdk/Libraries",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/c",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/chartboost/sdk/Model",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/chartboost/sdk/b",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/chartboost/sdk/InPlay",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/chartboost/sdk/Tracking",
+            "present": true
+        },
+        {
+            "count": 134,
+            "package": "Lcom/chart",
+            "present": true
+        },
+        {
+            "count": 134,
+            "package": "Lcom/chartboost/sdk",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/chartboost/sdk/d",
+            "present": true
+        },
+        {
+            "count": 91,
+            "package": "Lcom/chartboost/sdk/impl",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/chartboost/sdk/unity",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/chartboost/sdk/e",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.aa.extreme.city.gt.car.stunts.apk"
+}

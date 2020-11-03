@@ -1,0 +1,36 @@
+{
+    "count": 6,
+    "data": [
+        {
+            "count": 7,
+            "package": "Lorg/achartengine/a",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/achartengine/c",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/achartengine/b",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/achartengine/e",
+            "present": true
+        },
+        {
+            "count": 21,
+            "package": "Lorg/achartengine",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/d",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr2304655&n.apk"
+}

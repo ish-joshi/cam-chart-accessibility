@@ -1,0 +1,31 @@
+{
+    "count": 5,
+    "data": [
+        {
+            "count": 20,
+            "package": "Lcom/db/chart",
+            "present": true
+        },
+        {
+            "count": 17,
+            "package": "Lcom/db/chart/view",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/db/chart/model",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/db/chart/view/animation",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/db/chart/view/a",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr3115739&n.apk"
+}

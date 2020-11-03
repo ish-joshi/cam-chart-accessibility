@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 10,
+            "package": "Lcom/thinkive/quotation_chart",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/thinkive/quotation_chart/views",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/thinkive/quotation_chart/viewbeans",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/3235255&n.apk"
+}

@@ -1,0 +1,41 @@
+{
+    "count": 7,
+    "data": [
+        {
+            "count": 9,
+            "package": "Lcom/fima/chartview",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.bookmark.money.apk"
+}

@@ -1,0 +1,31 @@
+{
+    "count": 5,
+    "data": [
+        {
+            "count": 51,
+            "package": "Lcom/androidplot",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/androidplot/ui",
+            "present": true
+        },
+        {
+            "count": 22,
+            "package": "Lcom/androidplot/xy",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/androidplot/util",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/androidplot/pi",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.weather.Weather.apk"
+}

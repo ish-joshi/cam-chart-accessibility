@@ -1,0 +1,111 @@
+{
+    "count": 21,
+    "data": [
+        {
+            "count": 6,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Llecho/lib/hellocharts/h",
+            "present": true
+        },
+        {
+            "count": 60,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/a",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/f",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/g",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Llecho/lib/hellocharts/b",
+            "present": true
+        },
+        {
+            "count": 16,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/github/mikephil/charting/i",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/d",
+            "present": true
+        },
+        {
+            "count": 60,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Llecho/lib/hellocharts/f",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 21,
+            "package": "Lcom/github/mikephil/charting/h",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/animation",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Llecho/lib/hellocharts/view",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/github/mikephil/charting/b",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        },
+        {
+            "count": 53,
+            "package": "Llecho/lib/hellocharts",
+            "present": true
+        },
+        {
+            "count": 14,
+            "package": "Llecho/lib/hellocharts/model",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/a",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/3114450&n.apk"
+}

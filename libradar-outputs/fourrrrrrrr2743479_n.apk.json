@@ -1,0 +1,56 @@
+{
+    "count": 10,
+    "data": [
+        {
+            "count": 15,
+            "package": "Lorg/achartengine/a",
+            "present": true
+        },
+        {
+            "count": 26,
+            "package": "Lorg/achartengine/chart",
+            "present": true
+        },
+        {
+            "count": 31,
+            "package": "Lorg/achartengine/c",
+            "present": true
+        },
+        {
+            "count": 24,
+            "package": "Lorg/achartengine/chartdemo/demo/chart",
+            "present": true
+        },
+        {
+            "count": 26,
+            "package": "Lorg/achartengine/chartdemo",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lorg/achartengine/b",
+            "present": true
+        },
+        {
+            "count": 26,
+            "package": "Lorg/achartengine/chartdemo/demo",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/achartengine/e",
+            "present": true
+        },
+        {
+            "count": 61,
+            "package": "Lorg/achartengine",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/achartengine/d",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr2743479&n.apk"
+}

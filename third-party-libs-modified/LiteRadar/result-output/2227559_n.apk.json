@@ -1,0 +1,16 @@
+{
+    "count": 2,
+    "data": [
+        {
+            "count": 3,
+            "package": "Llerrain/project/insurance/product/attachment/chart",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Llerrain/project/insurance/plan/filter/chart",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2227559&n.apk"
+}

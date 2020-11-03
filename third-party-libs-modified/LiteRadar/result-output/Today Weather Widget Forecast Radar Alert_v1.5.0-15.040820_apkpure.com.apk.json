@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 9,
+            "package": "Lcom/db/chart",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/db/chart/view",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/db/chart/view/a",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/Today Weather Widget Forecast Radar Alert_v1.5.0-15.040820_apkpure.com.apk"
+}

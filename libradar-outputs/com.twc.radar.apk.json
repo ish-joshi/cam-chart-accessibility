@@ -1,0 +1,31 @@
+{
+    "count": 5,
+    "data": [
+        {
+            "count": 11,
+            "package": "Lcom/androidplot/ui",
+            "present": true
+        },
+        {
+            "count": 64,
+            "package": "Lcom/androidplot",
+            "present": true
+        },
+        {
+            "count": 33,
+            "package": "Lcom/androidplot/xy",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/androidplot/pi",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/androidplot/util",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.twc.radar.apk"
+}

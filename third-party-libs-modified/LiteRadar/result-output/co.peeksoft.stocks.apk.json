@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 133,
+            "package": "Lcom/scichart/charting",
+            "present": true
+        },
+        {
+            "count": 114,
+            "package": "Lcom/scichart/charting/visuals",
+            "present": true
+        },
+        {
+            "count": 19,
+            "package": "Lcom/scichart/charting/modifiers",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/co.peeksoft.stocks.apk"
+}

@@ -1,0 +1,26 @@
+{
+    "count": 4,
+    "data": [
+        {
+            "count": 3,
+            "package": "Lcom/cmcmarkets/android/events/chart",
+            "present": true
+        },
+        {
+            "count": 13,
+            "package": "Lcom/cmcmarkets/android/chart",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/cmcmarkets/android/widgets/factsheet/chart",
+            "present": true
+        },
+        {
+            "count": 14,
+            "package": "Lcom/cmcmarkets/android/controls/chartmenu",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2765498&n.apk"
+}

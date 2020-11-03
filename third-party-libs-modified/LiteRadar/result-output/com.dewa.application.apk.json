@@ -1,0 +1,96 @@
+{
+    "count": 18,
+    "data": [
+        {
+            "count": 6,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lorg/achartengine/a",
+            "present": true
+        },
+        {
+            "count": 57,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/a",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/g",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lorg/achartengine/c",
+            "present": true
+        },
+        {
+            "count": 15,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 18,
+            "package": "Lcom/github/mikephil/charting/i",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/b",
+            "present": true
+        },
+        {
+            "count": 57,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/e",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/github/mikephil/charting/j",
+            "present": true
+        },
+        {
+            "count": 19,
+            "package": "Lorg/achartengine",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/achartengine/d",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/d/a",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/github/mikephil/charting/e",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.dewa.application.apk"
+}

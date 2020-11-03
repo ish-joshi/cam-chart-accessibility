@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 11,
+            "package": "Lcom/idtk/smallchart/render",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/idtk/smallchart/compute",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/idtk/smallchart/animation",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr2776840&n.apk"
+}

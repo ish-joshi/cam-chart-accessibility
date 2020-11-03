@@ -1,0 +1,61 @@
+{
+    "count": 11,
+    "data": [
+        {
+            "count": 12,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 42,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting/utils",
+            "present": true
+        },
+        {
+            "count": 18,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 42,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/github/mikephil/charting/l",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/renderer",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/data/filter",
+            "present": true
+        },
+        {
+            "count": 18,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/github/mikephil/charting/listener",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2121956&n.apk"
+}

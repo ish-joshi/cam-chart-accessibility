@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 26,
+            "package": "Lcom/chartbeat",
+            "present": true
+        },
+        {
+            "count": 26,
+            "package": "Lcom/chart",
+            "present": true
+        },
+        {
+            "count": 26,
+            "package": "Lcom/chartbeat/androidsdk",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/CNN Breaking US World News_v6.10.1_apkpure.com.apk"
+}

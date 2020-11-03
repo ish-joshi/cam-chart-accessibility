@@ -1,0 +1,231 @@
+{
+    "count": 45,
+    "data": [
+        {
+            "count": 3,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/insight/sleepcomparison",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/samsung/android/app/shealth/chartview/fw/component/graph",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/insight",
+            "present": true
+        },
+        {
+            "count": 70,
+            "package": "Lcom/samsung/android/app/shealth/chartview/fw",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/insight/milestonecomparison",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/noitem",
+            "present": true
+        },
+        {
+            "count": 97,
+            "package": "Lcom/samsung/android/app/shealth/chartview",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/rewarddetailstrend",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/samsung/android/app/shealth/chartview/fw/renderer",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/together/challengehistory",
+            "present": true
+        },
+        {
+            "count": 15,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/roundprogress",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/measureprogress",
+            "present": true
+        },
+        {
+            "count": 27,
+            "package": "Lcom/samsung/android/app/shealth/chartview/api",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/insight/milestonecomparisonc4",
+            "present": true
+        },
+        {
+            "count": 35,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/together",
+            "present": true
+        },
+        {
+            "count": 18,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/holisticreport",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/samsung/android/app/shealth/chartview/fw/property",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/samsung/android/app/shealth/chartview/api/utils",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/measureprogress/continuousheartraterangestats",
+            "present": true
+        },
+        {
+            "count": 28,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/trends",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/samsung/android/app/shealth/chartview/api/chart",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/holisticreport/balance",
+            "present": true
+        },
+        {
+            "count": 227,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart",
+            "present": true
+        },
+        {
+            "count": 14,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/heartrate",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/holisticreport/details",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/realtimeactive",
+            "present": true
+        },
+        {
+            "count": 15,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/roundprogress/goalcircle",
+            "present": true
+        },
+        {
+            "count": 24,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/together/challenge",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/sleepsummary",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/samsung/android/app/shealth/chartview/fw/data",
+            "present": true
+        },
+        {
+            "count": 21,
+            "package": "Lcom/samsung/android/app/shealth/chartview/fw/animation",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/samsung/android/app/shealth/chartview/api/animation",
+            "present": true
+        },
+        {
+            "count": 22,
+            "package": "Lcom/samsung/android/app/shealth/chartview/fw/component",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/holisticreport/compareavggoal",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/samsung/android/app/shealth/chartview/api/data",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/samsung/android/app/shealth/chartview/api/style",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/together/challengematch",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/holisticreport/balancelabel",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/realtimetracker",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/sleepsummary/data",
+            "present": true
+        },
+        {
+            "count": 205,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/holisticreport/compareavg",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/rangestats",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/samsung/android/app/shealth/chartview/fw/chart",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/samsung/android/app/shealth/visualization/chart/shealth/floors",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.sec.android.app.shealth.apk"
+}

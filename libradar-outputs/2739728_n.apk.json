@@ -1,0 +1,31 @@
+{
+    "count": 5,
+    "data": [
+        {
+            "count": 6,
+            "package": "Lcom/czzdit/mit_atrade/third/achartengine/d",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/czzdit/mit_atrade/third/achartengine/e",
+            "present": true
+        },
+        {
+            "count": 23,
+            "package": "Lcom/czzdit/mit_atrade/third/achartengine",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/czzdit/mit_atrade/third/achartengine/c",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/czzdit/mit_atrade/third/achartengine/a",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2739728&n.apk"
+}

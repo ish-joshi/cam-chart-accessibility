@@ -1,0 +1,36 @@
+{
+    "count": 6,
+    "data": [
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/utils",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lorg/achartengine/util",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/achartengine",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lorg/achartengine/renderer",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2775493&n.apk"
+}

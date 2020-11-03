@@ -1,0 +1,66 @@
+{
+    "count": 12,
+    "data": [
+        {
+            "count": 2,
+            "package": "Llecho/lib/hellocharts/computator",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Llecho/lib/hellocharts/formatter",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/gesture",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Llecho/lib/hellocharts/view",
+            "present": true
+        },
+        {
+            "count": 51,
+            "package": "Llecho/lib/hellocharts",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Llecho/lib/hellocharts/renderer",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/g",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/a",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Llecho/lib/hellocharts/f",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/animation",
+            "present": true
+        },
+        {
+            "count": 13,
+            "package": "Llecho/lib/hellocharts/model",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Llecho/lib/hellocharts/util",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.sport.twines.apk"
+}

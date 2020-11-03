@@ -1,0 +1,76 @@
+{
+    "count": 14,
+    "data": [
+        {
+            "count": 2,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lorg/achartengine/chart",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/a",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lorg/achartengine/c",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lorg/achartengine/chartdemo/demo/chart",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lorg/achartengine/chartdemo",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lorg/achartengine/chartdemo/demo",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/animation",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lorg/achartengine",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/org.yccheok.jstock.gui.apk"
+}

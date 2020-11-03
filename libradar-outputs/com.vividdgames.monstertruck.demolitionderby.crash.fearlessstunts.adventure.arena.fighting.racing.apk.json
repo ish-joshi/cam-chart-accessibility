@@ -1,0 +1,56 @@
+{
+    "count": 10,
+    "data": [
+        {
+            "count": 4,
+            "package": "Lcom/chartboost/sdk/Model",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/Tracking",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/chartboost/sdk/e",
+            "present": true
+        },
+        {
+            "count": 91,
+            "package": "Lcom/chartboost/sdk",
+            "present": true
+        },
+        {
+            "count": 91,
+            "package": "Lcom/chart",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/chartboost/sdk/c",
+            "present": true
+        },
+        {
+            "count": 63,
+            "package": "Lcom/chartboost/sdk/impl",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/chartboost/sdk/Libraries",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/d",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/b",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.vividdgames.monstertruck.demolitionderby.crash.fearlessstunts.adventure.arena.fighting.racing.apk"
+}

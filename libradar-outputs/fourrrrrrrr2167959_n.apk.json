@@ -1,0 +1,91 @@
+{
+    "count": 17,
+    "data": [
+        {
+            "count": 97,
+            "package": "Lnet/droidsolutions/droidcharts",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lnet/droidsolutions/droidcharts/core/block",
+            "present": true
+        },
+        {
+            "count": 70,
+            "package": "Lnet/droidsolutions/droidcharts/core",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lnet/droidsolutions/droidcharts/core/data",
+            "present": true
+        },
+        {
+            "count": 16,
+            "package": "Lnet/droidsolutions/droidcharts/awt",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lnet/droidsolutions/droidcharts/core/entity",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lnet/droidsolutions/droidcharts/core/text",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lnet/droidsolutions/droidcharts/core/renderer",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lnet/droidsolutions/droidcharts/common",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lnet/droidsolutions/droidcharts/core/renderer/category",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lnet/droidsolutions/droidcharts/core/data/general",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lnet/droidsolutions/droidcharts/core/label",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lnet/droidsolutions/droidcharts/core/data/xy",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lnet/droidsolutions/droidcharts/core/title",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lnet/droidsolutions/droidcharts/core/plot",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lnet/droidsolutions/droidcharts/core/axis",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lnet/droidsolutions/droidcharts/core/renderer/xy",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr2167959&n.apk"
+}

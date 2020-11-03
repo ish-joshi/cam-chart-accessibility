@@ -1,0 +1,31 @@
+{
+    "count": 5,
+    "data": [
+        {
+            "count": 28,
+            "package": "Lcom/java4less/rchart",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/java4less/rchart/gc",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/java4less/rchart/tags",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/java4less/rchart/android",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/java4less/rchart/gc/android",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr1453627&n.apk"
+}

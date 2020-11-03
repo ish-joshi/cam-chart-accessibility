@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 27,
+            "package": "Lcom/chartbeat",
+            "present": true
+        },
+        {
+            "count": 27,
+            "package": "Lcom/chart",
+            "present": true
+        },
+        {
+            "count": 27,
+            "package": "Lcom/chartbeat/androidsdk",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/Eurosport_v5.51.2_apkpure.com.apk"
+}

@@ -1,0 +1,86 @@
+{
+    "count": 16,
+    "data": [
+        {
+            "count": 4,
+            "package": "Lcom/steema/teechart/editors",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/steema/teechart/imports",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/steema/teechart/events",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/steema/teechart/exports",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/steema/teechart/axis",
+            "present": true
+        },
+        {
+            "count": 28,
+            "package": "Lcom/steema/teechart/functions",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/steema/teechart/drawing",
+            "present": true
+        },
+        {
+            "count": 16,
+            "package": "Lcom/steema/teechart/e",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/steema/teechart/android",
+            "present": true
+        },
+        {
+            "count": 36,
+            "package": "Lcom/steema/teechart/styles",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/steema/teechart/languages",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/steema/teechart/misc",
+            "present": true
+        },
+        {
+            "count": 124,
+            "package": "Lcom/steema/teechart",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/steema/teechart/legend",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/steema/teechart/tools",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/steema/teechart/data",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/1590824&n.apk"
+}

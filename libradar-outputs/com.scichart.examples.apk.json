@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 19,
+            "package": "Lcom/scichart/charting",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/scichart/charting/modifiers",
+            "present": true
+        },
+        {
+            "count": 14,
+            "package": "Lcom/scichart/charting/visuals",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.scichart.examples.apk"
+}

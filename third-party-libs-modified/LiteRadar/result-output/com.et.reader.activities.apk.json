@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 22,
+            "package": "Lcom/chartbeat",
+            "present": true
+        },
+        {
+            "count": 22,
+            "package": "Lcom/chart",
+            "present": true
+        },
+        {
+            "count": 22,
+            "package": "Lcom/chartbeat/androidsdk",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.et.reader.activities.apk"
+}

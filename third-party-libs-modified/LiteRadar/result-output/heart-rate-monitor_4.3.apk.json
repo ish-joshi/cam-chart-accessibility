@@ -1,0 +1,61 @@
+{
+    "count": 11,
+    "data": [
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 67,
+            "package": "Lcom/androidplot",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lcom/androidplot/ui",
+            "present": true
+        },
+        {
+            "count": 35,
+            "package": "Lcom/androidplot/xy",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting/d",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/androidplot/util",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/androidplot/pi",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/github/mikephil/charting/data",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/heart-rate-monitor_4.3.apk"
+}

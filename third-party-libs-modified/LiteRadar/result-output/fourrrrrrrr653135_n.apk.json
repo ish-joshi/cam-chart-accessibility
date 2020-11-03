@@ -1,0 +1,46 @@
+{
+    "count": 8,
+    "data": [
+        {
+            "count": 9,
+            "package": "Lcom/chartboost/sdk/Libraries",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/chartboost/sdk/Model",
+            "present": true
+        },
+        {
+            "count": 14,
+            "package": "Lcom/chartboost/sdk/NativeViews",
+            "present": true
+        },
+        {
+            "count": 22,
+            "package": "Lcom/chartboost/sdk/View",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/Analytics",
+            "present": true
+        },
+        {
+            "count": 57,
+            "package": "Lcom/chart",
+            "present": true
+        },
+        {
+            "count": 57,
+            "package": "Lcom/chartboost/sdk",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/chartboost/sdk/Networking",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr653135&n.apk"
+}

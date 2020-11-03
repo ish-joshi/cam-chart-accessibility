@@ -1,0 +1,16 @@
+{
+    "count": 2,
+    "data": [
+        {
+            "count": 6,
+            "package": "Lcom/db/williamchart/view",
+            "present": true
+        },
+        {
+            "count": 21,
+            "package": "Lcom/db/williamchart",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.tokopedia.tkpd.apk"
+}

@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="ccp.paquet" content-desc=""
+          checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false"
+          scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,2201]">
+        <node index="0" text="" resource-id="android:id/decor_content_parent" class="android.view.ViewGroup"
+              package="ccp.paquet" content-desc="" checkable="false" checked="false" clickable="false" enabled="true"
+              focusable="false" focused="false" scrollable="false" long-clickable="false" password="false"
+              selected="false" bounds="[0,0][1080,2201]">
+            <node index="0" text="" resource-id="android:id/action_bar_container" class="android.widget.FrameLayout"
+                  package="ccp.paquet" content-desc="" checkable="false" checked="false" clickable="false"
+                  enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false"
+                  password="false" selected="false" bounds="[0,80][1080,224]">
+                <node index="0" text="" resource-id="android:id/action_bar" class="android.view.ViewGroup"
+                      package="ccp.paquet" content-desc="" checkable="false" checked="false" clickable="false"
+                      enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false"
+                      password="false" selected="false" bounds="[0,80][1080,224]">
+                    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="ccp.paquet"
+                          content-desc="Demonstration account, Main menu" checkable="false" checked="false"
+                          clickable="true" enabled="true" focusable="true" focused="false" scrollable="false"
+                          long-clickable="false" password="false" selected="false" bounds="[0,80][682,224]">
+                        <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="ccp.paquet"
+                              content-desc="" checkable="false" checked="false" clickable="false" enabled="true"
+                              focusable="false" focused="false" scrollable="false" long-clickable="false"
+                              password="false" selected="false" bounds="[0,80][144,224]">
+                            <node index="0" text="" resource-id="android:id/up" class="android.widget.ImageView"
+                                  package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                  clickable="false" enabled="true" focusable="false" focused="false" scrollable="false"
+                                  long-clickable="false" password="false" selected="false" bounds="[0,128][48,176]"/>
+                            <node index="1" text="" resource-id="android:id/home" class="android.widget.ImageView"
+                                  package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                  clickable="false" enabled="true" focusable="false" focused="false" scrollable="false"
+                                  long-clickable="false" password="false" selected="false" bounds="[36,104][132,200]"/>
+                        </node>
+                        <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="ccp.paquet"
+                              content-desc="" checkable="false" checked="false" clickable="false" enabled="true"
+                              focusable="false" focused="false" scrollable="false" long-clickable="false"
+                              password="false" selected="false" bounds="[144,124][682,179]">
+                            <node index="0" text="Demonstration account" resource-id="android:id/action_bar_title"
+                                  class="android.widget.TextView" package="ccp.paquet" content-desc="" checkable="false"
+                                  checked="false" clickable="false" enabled="true" focusable="false" focused="false"
+                                  scrollable="false" long-clickable="false" password="false" selected="false"
+                                  bounds="[144,124][658,179]"/>
+                        </node>
+                    </node>
+                    <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="ccp.paquet"
+                          content-desc="" checkable="false" checked="false" clickable="false" enabled="true"
+                          focusable="false" focused="false" scrollable="false" long-clickable="false" password="false"
+                          selected="false" bounds="[744,80][1080,224]">
+                        <node index="0" text="" resource-id="ccp.paquet:id/menu_cuenta_new_actionBar_anadir"
+                              class="android.widget.TextView" package="ccp.paquet" content-desc="Add expense / income"
+                              checkable="false" checked="false" clickable="true" enabled="true" focusable="true"
+                              focused="false" scrollable="false" long-clickable="false" password="false"
+                              selected="false" bounds="[744,80][912,224]"/>
+                        <node index="1" text="" resource-id="ccp.paquet:id/menu_cuenta_new_actionBar_editar"
+                              class="android.widget.TextView" package="ccp.paquet" content-desc="Edit Account"
+                              checkable="false" checked="false" clickable="true" enabled="true" focusable="true"
+                              focused="false" scrollable="false" long-clickable="false" password="false"
+                              selected="false" bounds="[912,80][1080,224]"/>
+                    </node>
+                </node>
+            </node>
+            <node index="1" text="" resource-id="android:id/content" class="android.widget.FrameLayout"
+                  package="ccp.paquet" content-desc="" checkable="false" checked="false" clickable="false"
+                  enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false"
+                  password="false" selected="false" bounds="[0,224][1080,2201]">
+                <node index="0" text="" resource-id="ccp.paquet:id/Menu_cuenta_new_drawer_layout"
+                      class="android.support.v4.widget.DrawerLayout" package="ccp.paquet" content-desc=""
+                      checkable="false" checked="false" clickable="false" enabled="true" focusable="false"
+                      focused="false" scrollable="false" long-clickable="false" password="false" selected="false"
+                      bounds="[0,224][1080,2201]">
+                    <node index="0" text="" resource-id="ccp.paquet:id/menu_cuenta_new_frame_container"
+                          class="android.widget.FrameLayout" package="ccp.paquet" content-desc="" checkable="false"
+                          checked="false" clickable="false" enabled="true" focusable="false" focused="false"
+                          scrollable="false" long-clickable="false" password="false" selected="false"
+                          bounds="[0,224][1080,2201]"/>
+                    <node index="1" text="" resource-id="ccp.paquet:id/Menu_cuenta_new_layout_scrollview"
+                          class="android.widget.LinearLayout" package="ccp.paquet" content-desc="" checkable="false"
+                          checked="false" clickable="false" enabled="true" focusable="false" focused="false"
+                          scrollable="false" long-clickable="false" password="false" selected="false"
+                          bounds="[0,224][1080,2201]">
+                        <node index="0" text="" resource-id="" class="android.widget.ScrollView" package="ccp.paquet"
+                              content-desc="" checkable="false" checked="false" clickable="false" enabled="true"
+                              focusable="true" focused="false" scrollable="true" long-clickable="false" password="false"
+                              selected="false" bounds="[0,224][1080,2130]">
+                            <node index="0" text="" resource-id="" class="android.widget.LinearLayout"
+                                  package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                  clickable="false" enabled="true" focusable="false" focused="false" scrollable="false"
+                                  long-clickable="false" password="false" selected="false" bounds="[0,224][1080,2130]">
+                                <node index="6" text=""
+                                      resource-id="ccp.paquet:id/Menu_cuenta_new_layout_chart_efectivo"
+                                      class="android.widget.LinearLayout" package="ccp.paquet" content-desc=""
+                                      checkable="false" checked="false" clickable="false" enabled="true"
+                                      focusable="false" focused="false" scrollable="false" long-clickable="false"
+                                      password="false" selected="false" bounds="[15,224][1065,225]"/>
+                                <node index="7" text="" resource-id="" class="android.widget.LinearLayout"
+                                      package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                      clickable="false" enabled="true" focusable="false" focused="false"
+                                      scrollable="false" long-clickable="false" password="false" selected="false"
+                                      bounds="[0,240][1080,375]">
+                                    <node index="0" text=""
+                                          resource-id="ccp.paquet:id/Menu_cuenta_new_ultimos_meses_expand"
+                                          class="android.widget.ImageView" package="ccp.paquet"
+                                          content-desc="Manage expenses / income" checkable="false" checked="false"
+                                          clickable="true" enabled="true" focusable="true" focused="false"
+                                          scrollable="false" long-clickable="false" password="false" selected="false"
+                                          bounds="[0,255][105,360]"/>
+                                    <node index="1" text="Last two months"
+                                          resource-id="ccp.paquet:id/Menu_cuenta_new_chart_ultimos_meses_titulo"
+                                          class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                          checkable="false" checked="false" clickable="false" enabled="true"
+                                          focusable="false" focused="false" scrollable="false" long-clickable="false"
+                                          password="false" selected="false" bounds="[135,265][1080,350]"/>
+                                </node>
+                                <node index="8" text=""
+                                      resource-id="ccp.paquet:id/Menu_cuenta_new_layout_chart_ultimos_meses"
+                                      class="android.widget.LinearLayout" package="ccp.paquet" content-desc=""
+                                      checkable="false" checked="false" clickable="false" enabled="true"
+                                      focusable="false" focused="false" scrollable="false" long-clickable="false"
+                                      password="false" selected="false" bounds="[15,375][1065,1125]">
+                                    <node NAF="true" index="0" text="" resource-id="" class="android.view.View"
+                                          package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                          clickable="true" enabled="true" focusable="true" focused="false"
+                                          scrollable="false" long-clickable="false" password="false" selected="false"
+                                          bounds="[21,381][1059,1119]"/>
+                                </node>
+                                <node index="9" text="" resource-id="" class="android.widget.LinearLayout"
+                                      package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                      clickable="false" enabled="true" focusable="false" focused="false"
+                                      scrollable="false" long-clickable="false" password="false" selected="false"
+                                      bounds="[0,1140][1080,1275]">
+                                    <node index="0" text=""
+                                          resource-id="ccp.paquet:id/Menu_cuenta_new_calendario_expand"
+                                          class="android.widget.ImageView" package="ccp.paquet"
+                                          content-desc="Manage expenses / income" checkable="false" checked="false"
+                                          clickable="true" enabled="true" focusable="true" focused="false"
+                                          scrollable="false" long-clickable="false" password="false" selected="false"
+                                          bounds="[0,1155][105,1260]"/>
+                                    <node index="1" text="Calendar"
+                                          resource-id="ccp.paquet:id/Menu_cuenta_new_calendario_titulo"
+                                          class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                          checkable="false" checked="false" clickable="false" enabled="true"
+                                          focusable="false" focused="false" scrollable="false" long-clickable="false"
+                                          password="false" selected="false" bounds="[135,1165][1080,1250]"/>
+                                </node>
+                                <node index="10" text="" resource-id="" class="android.widget.LinearLayout"
+                                      package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                      clickable="false" enabled="true" focusable="false" focused="false"
+                                      scrollable="false" long-clickable="false" password="false" selected="false"
+                                      bounds="[15,1275][1065,1506]">
+                                    <node index="0" text=""
+                                          resource-id="ccp.paquet:id/Menu_cuenta_new_calendario_generar"
+                                          class="android.widget.ImageView" package="ccp.paquet" content-desc="Calendar"
+                                          checkable="false" checked="false" clickable="true" enabled="true"
+                                          focusable="true" focused="false" scrollable="false" long-clickable="false"
+                                          password="false" selected="false" bounds="[450,1296][630,1476]"/>
+                                </node>
+                                <node index="11" text="Vehicle consumption"
+                                      resource-id="ccp.paquet:id/Menu_cuenta_new_gastos_vehiculo_titulo"
+                                      class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                      checkable="false" checked="false" clickable="false" enabled="true"
+                                      focusable="false" focused="false" scrollable="false" long-clickable="false"
+                                      password="false" selected="false" bounds="[0,1521][1080,1636]"/>
+                                <node index="12" text=""
+                                      resource-id="ccp.paquet:id/Menu_cuenta_new_layout_consumo_vehiculos"
+                                      class="android.widget.LinearLayout" package="ccp.paquet" content-desc=""
+                                      checkable="false" checked="false" clickable="false" enabled="true"
+                                      focusable="false" focused="false" scrollable="false" long-clickable="false"
+                                      password="false" selected="false" bounds="[135,1636][945,1786]">
+                                    <node index="0" text="" resource-id="" class="android.widget.LinearLayout"
+                                          package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                          clickable="false" enabled="true" focusable="false" focused="false"
+                                          scrollable="false" long-clickable="false" password="false" selected="false"
+                                          bounds="[141,1642][939,1780]">
+                                        <node index="0" text=""
+                                              resource-id="ccp.paquet:id/Moviments_admin_grid_gasofa_solo_colIcono"
+                                              class="android.widget.ImageView" package="ccp.paquet" content-desc="Icon"
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[180,1663][276,1759]"/>
+                                        <node index="1" text="Car"
+                                              resource-id="ccp.paquet:id/Moviments_admin_grid_gasofa_solo_colNombre"
+                                              class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[276,1687][696,1735]"/>
+                                        <node index="2" text="" resource-id="" class="android.widget.LinearLayout"
+                                              package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                              clickable="false" enabled="true" focusable="false" focused="false"
+                                              scrollable="false" long-clickable="false" password="false"
+                                              selected="false" bounds="[696,1642][906,1780]">
+                                            <node index="0" text="4.7"
+                                                  resource-id="ccp.paquet:id/Moviments_admin_grid_gasofa_solo_col_Gasofa_ConsumoMedio"
+                                                  class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                                  checkable="false" checked="false" clickable="false" enabled="true"
+                                                  focusable="false" focused="false" scrollable="false"
+                                                  long-clickable="false" password="false" selected="false"
+                                                  bounds="[696,1642][906,1697]"/>
+                                            <node index="1" text="5.2$/100"
+                                                  resource-id="ccp.paquet:id/Moviments_admin_grid_gasofa_solo_col_Gasofa_precio_medio"
+                                                  class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                                  checkable="false" checked="false" clickable="false" enabled="true"
+                                                  focusable="false" focused="false" scrollable="false"
+                                                  long-clickable="false" password="false" selected="false"
+                                                  bounds="[696,1697][906,1745]"/>
+                                            <node index="2" text="20.0 %"
+                                                  resource-id="ccp.paquet:id/Moviments_admin_grid_gasofa_solo_col_Gasofa_precision"
+                                                  class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                                  checkable="false" checked="false" clickable="false" enabled="true"
+                                                  focusable="false" focused="false" scrollable="false"
+                                                  long-clickable="false" password="false" selected="false"
+                                                  bounds="[696,1745][906,1780]"/>
+                                        </node>
+                                    </node>
+                                </node>
+                                <node index="13" text="Top categories"
+                                      resource-id="ccp.paquet:id/Menu_cuenta_new_top_categories_titulo"
+                                      class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                      checkable="false" checked="false" clickable="false" enabled="true"
+                                      focusable="false" focused="false" scrollable="false" long-clickable="false"
+                                      password="false" selected="false" bounds="[0,1801][1080,1916]"/>
+                                <node index="14" text=""
+                                      resource-id="ccp.paquet:id/Menu_cuenta_new_layout_chart_top_categories"
+                                      class="android.widget.LinearLayout" package="ccp.paquet" content-desc=""
+                                      checkable="false" checked="false" clickable="false" enabled="true"
+                                      focusable="false" focused="false" scrollable="false" long-clickable="false"
+                                      password="false" selected="false" bounds="[9,1916][1071,2130]">
+                                    <node index="0" text="" resource-id="" class="android.widget.LinearLayout"
+                                          package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                          clickable="false" enabled="true" focusable="false" focused="false"
+                                          scrollable="false" long-clickable="false" password="false" selected="false"
+                                          bounds="[9,1916][1071,2012]">
+                                        <node index="0" text="2,600.0$"
+                                              resource-id="ccp.paquet:id/Menu_cuenta_grid_top_categories_colCantidad"
+                                              class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[72,1935][462,1993]"/>
+                                        <node index="1" text=""
+                                              resource-id="ccp.paquet:id/Menu_cuenta_grid_top_categories_colIcono"
+                                              class="android.widget.ImageView" package="ccp.paquet" content-desc="Icon"
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[477,1916][573,2012]"/>
+                                        <node index="2" text="Wage"
+                                              resource-id="ccp.paquet:id/Menu_cuenta_grid_top_categories_colNombre"
+                                              class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[588,1935][1008,1993]"/>
+                                    </node>
+                                    <node index="1" text="" resource-id="" class="android.widget.LinearLayout"
+                                          package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                          clickable="false" enabled="true" focusable="false" focused="false"
+                                          scrollable="false" long-clickable="false" password="false" selected="false"
+                                          bounds="[9,2012][1071,2108]">
+                                        <node index="0" text="400.0$"
+                                              resource-id="ccp.paquet:id/Menu_cuenta_grid_top_categories_colCantidad"
+                                              class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[72,2031][462,2089]"/>
+                                        <node index="1" text=""
+                                              resource-id="ccp.paquet:id/Menu_cuenta_grid_top_categories_colIcono"
+                                              class="android.widget.ImageView" package="ccp.paquet" content-desc="Icon"
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[477,2012][573,2108]"/>
+                                        <node index="2" text="Home"
+                                              resource-id="ccp.paquet:id/Menu_cuenta_grid_top_categories_colNombre"
+                                              class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[588,2031][1008,2089]"/>
+                                    </node>
+                                    <node index="2" text="" resource-id="" class="android.widget.LinearLayout"
+                                          package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                          clickable="false" enabled="true" focusable="false" focused="false"
+                                          scrollable="false" long-clickable="false" password="false" selected="false"
+                                          bounds="[9,2108][1071,2130]">
+                                        <node index="0" text="376.0$"
+                                              resource-id="ccp.paquet:id/Menu_cuenta_grid_top_categories_colCantidad"
+                                              class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[72,2127][462,2130]"/>
+                                        <node index="1" text=""
+                                              resource-id="ccp.paquet:id/Menu_cuenta_grid_top_categories_colIcono"
+                                              class="android.widget.ImageView" package="ccp.paquet" content-desc="Icon"
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[477,2108][573,2130]"/>
+                                        <node index="2" text="Phone"
+                                              resource-id="ccp.paquet:id/Menu_cuenta_grid_top_categories_colNombre"
+                                              class="android.widget.TextView" package="ccp.paquet" content-desc=""
+                                              checkable="false" checked="false" clickable="false" enabled="true"
+                                              focusable="false" focused="false" scrollable="false"
+                                              long-clickable="false" password="false" selected="false"
+                                              bounds="[588,2127][1008,2130]"/>
+                                    </node>
+                                </node>
+                            </node>
+                        </node>
+                        <node index="1" text="" resource-id="ccp.paquet:id/ad_menu_cuenta_new"
+                              class="android.view.ViewGroup" package="ccp.paquet" content-desc="" checkable="false"
+                              checked="false" clickable="false" enabled="true" focusable="false" focused="false"
+                              scrollable="false" long-clickable="false" password="false" selected="false"
+                              bounds="[60,2130][1020,2201]">
+                            <node index="0" text="" resource-id="" class="android.widget.FrameLayout"
+                                  package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                  clickable="false" enabled="true" focusable="false" focused="false" scrollable="false"
+                                  long-clickable="false" password="false" selected="false"
+                                  bounds="[60,2130][1020,2201]">
+                                <node index="0" text="" resource-id="" class="android.widget.FrameLayout"
+                                      package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                      clickable="false" enabled="true" focusable="false" focused="false"
+                                      scrollable="false" long-clickable="false" password="false" selected="false"
+                                      bounds="[60,2130][1020,2201]">
+                                    <node index="0" text="" resource-id="" class="android.widget.FrameLayout"
+                                          package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                          clickable="false" enabled="true" focusable="false" focused="false"
+                                          scrollable="false" long-clickable="false" password="false" selected="false"
+                                          bounds="[60,2130][1020,2201]">
+                                        <node index="0" text="" resource-id="" class="android.webkit.WebView"
+                                              package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                              clickable="false" enabled="true" focusable="false" focused="false"
+                                              scrollable="false" long-clickable="false" password="false"
+                                              selected="false" bounds="[60,2130][1020,2201]">
+                                            <node index="0" text="" resource-id="" class="android.webkit.WebView"
+                                                  package="ccp.paquet" content-desc="" checkable="false" checked="false"
+                                                  clickable="false" enabled="true" focusable="true" focused="true"
+                                                  scrollable="true" long-clickable="false" password="false"
+                                                  selected="false" bounds="[60,2130][1020,2201]">
+                                                <node index="0" text="" resource-id="ad_iframe"
+                                                      class="android.view.View" package="ccp.paquet" content-desc=""
+                                                      checkable="false" checked="false" clickable="false" enabled="true"
+                                                      focusable="true" focused="false" scrollable="false"
+                                                      long-clickable="false" password="false" selected="false"
+                                                      bounds="[60,2142][1020,2201]">
+                                                    <node index="0" text="" resource-id="" class="android.view.View"
+                                                          package="ccp.paquet" content-desc="" checkable="false"
+                                                          checked="false" clickable="false" enabled="true"
+                                                          focusable="false" focused="true" scrollable="true"
+                                                          long-clickable="false" password="false" selected="false"
+                                                          bounds="[60,2142][1020,2201]">
+                                                        <node index="0" text="" resource-id="google_image_div"
+                                                              class="android.view.View" package="ccp.paquet"
+                                                              content-desc="" checkable="false" checked="false"
+                                                              clickable="false" enabled="true" focusable="false"
+                                                              focused="false" scrollable="false" long-clickable="false"
+                                                              password="false" selected="false"
+                                                              bounds="[60,2142][1020,2201]">
+                                                            <node index="0" text="" resource-id="aw0"
+                                                                  class="android.view.View" package="ccp.paquet"
+                                                                  content-desc="www.icmarkets" checkable="false"
+                                                                  checked="false" clickable="true" enabled="true"
+                                                                  focusable="true" focused="false" scrollable="false"
+                                                                  long-clickable="false" password="false"
+                                                                  selected="false" bounds="[60,2142][1020,2201]">
+                                                                <node index="0" text="" resource-id=""
+                                                                      class="android.view.View" package="ccp.paquet"
+                                                                      content-desc="" checkable="false" checked="false"
+                                                                      clickable="false" enabled="true" focusable="false"
+                                                                      focused="false" scrollable="false"
+                                                                      long-clickable="false" password="false"
+                                                                      selected="false" bounds="[60,2142][1020,2201]"/>
+                                                            </node>
+                                                            <node NAF="true" index="1" text="" resource-id="abgcp"
+                                                                  class="android.view.View" package="ccp.paquet"
+                                                                  content-desc="" checkable="false" checked="false"
+                                                                  clickable="true" enabled="true" focusable="false"
+                                                                  focused="false" scrollable="false"
+                                                                  long-clickable="false" password="false"
+                                                                  selected="false" bounds="[900,2142][1020,2201]"/>
+                                                        </node>
+                                                        <node index="1" text="" resource-id="" class="android.view.View"
+                                                              package="ccp.paquet" content-desc="" checkable="false"
+                                                              checked="false" clickable="false" enabled="true"
+                                                              focusable="false" focused="false" scrollable="false"
+                                                              long-clickable="false" password="false" selected="false"
+                                                              bounds="[60,2142][1020,2201]"/>
+                                                    </node>
+                                                </node>
+                                            </node>
+                                        </node>
+                                    </node>
+                                </node>
+                            </node>
+                        </node>
+                    </node>
+                </node>
+            </node>
+        </node>
+    </node>
+</hierarchy>

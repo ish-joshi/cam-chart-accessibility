@@ -1,0 +1,41 @@
+{
+    "count": 7,
+    "data": [
+        {
+            "count": 13,
+            "package": "Lorg/achartengine/chart",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lorg/achartengine/util",
+            "present": true
+        },
+        {
+            "count": 13,
+            "package": "Lorg/achartengine/c",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/tools",
+            "present": true
+        },
+        {
+            "count": 32,
+            "package": "Lorg/achartengine",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lorg/achartengine/model",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/achartengine/renderer",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/229627&n.apk"
+}

@@ -1,0 +1,51 @@
+{
+    "count": 9,
+    "data": [
+        {
+            "count": 4,
+            "package": "Lorg/xclcharts/c",
+            "present": true
+        },
+        {
+            "count": 22,
+            "package": "Lorg/xclcharts/renderer/plot",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lorg/xclcharts/c/b",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/xclcharts/view",
+            "present": true
+        },
+        {
+            "count": 24,
+            "package": "Lorg/xclcharts/a",
+            "present": true
+        },
+        {
+            "count": 42,
+            "package": "Lorg/xclcharts/renderer",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/xclcharts/b",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/xclcharts/c/a",
+            "present": true
+        },
+        {
+            "count": 76,
+            "package": "Lorg/xclcharts",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2332171&n.apk"
+}

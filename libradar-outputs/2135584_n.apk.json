@@ -1,0 +1,91 @@
+{
+    "count": 17,
+    "data": [
+        {
+            "count": 8,
+            "package": "Llecho/lib/hellocharts/renderer",
+            "present": true
+        },
+        {
+            "count": 14,
+            "package": "Lorg/achartengine/chart",
+            "present": true
+        },
+        {
+            "count": 25,
+            "package": "Lcom/ab/view/chart",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/util",
+            "present": true
+        },
+        {
+            "count": 14,
+            "package": "Lorg/achartengine/c",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/tools",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/g",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/animation",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/gesture",
+            "present": true
+        },
+        {
+            "count": 35,
+            "package": "Lorg/achartengine",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lorg/achartengine/model",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Llecho/lib/hellocharts/view",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lorg/achartengine/renderer",
+            "present": true
+        },
+        {
+            "count": 44,
+            "package": "Llecho/lib/hellocharts",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/model",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Llecho/lib/hellocharts/util",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/a",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2135584&n.apk"
+}

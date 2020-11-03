@@ -1,0 +1,116 @@
+{
+    "count": 22,
+    "data": [
+        {
+            "count": 7,
+            "package": "Lcom/telerik/widget/chart/visualization/behaviors/views",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/telerik/widget/chart/engine/axes/common",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/telerik/widget/chart/visualization/cartesianChart/series/scatter",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/telerik/widget/chart/engine/chartAreas",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/telerik/widget/chart/engine/series/combination",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/telerik/widget/chart/engine/elementTree",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/telerik/widget/chart/visualization/annotations",
+            "present": true
+        },
+        {
+            "count": 24,
+            "package": "Lcom/telerik/widget/chart/visualization/cartesianChart/series/categorical",
+            "present": true
+        },
+        {
+            "count": 17,
+            "package": "Lcom/telerik/widget/chart/engine/series",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/telerik/widget/chart/engine/series/rangeSeries",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/telerik/widget/chart/engine/series/combination/barSeries",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/telerik/widget/chart/engine/propertyStore",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/telerik/widget/chart/visualization/behaviors/animations",
+            "present": true
+        },
+        {
+            "count": 21,
+            "package": "Lcom/telerik/widget/chart/engine/databinding/datasources/financial",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/telerik/widget/chart/engine/decorations",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/telerik/widget/chart/visualization/cartesianChart/indicators",
+            "present": true
+        },
+        {
+            "count": 23,
+            "package": "Lcom/telerik/widget/chart/engine/databinding",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/telerik/widget/chart/visualization/pieChart",
+            "present": true
+        },
+        {
+            "count": 22,
+            "package": "Lcom/telerik/widget/chart/engine/databinding/datasources",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/telerik/widget/chart/visualization/cartesianChart/series/pointrenderers",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/telerik/widget/chart/visualization/annotations/cartesian",
+            "present": true
+        },
+        {
+            "count": 38,
+            "package": "Lcom/telerik/widget/chart/visualization/cartesianChart/series",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.grupow.RightApp.apk"
+}

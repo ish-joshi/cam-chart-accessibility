@@ -1,0 +1,16 @@
+{
+    "count": 2,
+    "data": [
+        {
+            "count": 3,
+            "package": "Lcom/db/chart",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/db/chart/view",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.androidapps.healthmanager.apk"
+}

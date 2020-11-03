@@ -1,0 +1,26 @@
+{
+    "count": 4,
+    "data": [
+        {
+            "count": 7,
+            "package": "Lcom/fr/android/chart/legend/marker",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/fr/android/chart/title",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Lcom/fr/android/chart/legend",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/fr/android/chart/datasheet",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr2478043&n.apk"
+}

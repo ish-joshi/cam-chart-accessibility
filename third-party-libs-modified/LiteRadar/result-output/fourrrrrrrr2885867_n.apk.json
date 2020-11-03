@@ -1,0 +1,16 @@
+{
+    "count": 2,
+    "data": [
+        {
+            "count": 7,
+            "package": "Lcom/addit/cn/customer/contract/planchart",
+            "present": true
+        },
+        {
+            "count": 14,
+            "package": "Lcom/addit/cn/customer/targetchart",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr2885867&n.apk"
+}

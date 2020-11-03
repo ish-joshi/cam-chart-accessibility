@@ -1,0 +1,46 @@
+{
+    "count": 8,
+    "data": [
+        {
+            "count": 1,
+            "package": "Llecho/lib/hellocharts/h",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Llecho/lib/hellocharts/g",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Llecho/lib/hellocharts/b",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/d",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Llecho/lib/hellocharts/view",
+            "present": true
+        },
+        {
+            "count": 51,
+            "package": "Llecho/lib/hellocharts",
+            "present": true
+        },
+        {
+            "count": 13,
+            "package": "Llecho/lib/hellocharts/model",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/a",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2729666&n.apk"
+}

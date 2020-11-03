@@ -1,0 +1,76 @@
+{
+    "count": 14,
+    "data": [
+        {
+            "count": 25,
+            "package": "Lorg/xclcharts/chart",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/xclcharts/renderer/line",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/xclcharts/renderer/bar",
+            "present": true
+        },
+        {
+            "count": 77,
+            "package": "Lorg/xclcharts",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lorg/xclcharts/renderer/axis",
+            "present": true
+        },
+        {
+            "count": 42,
+            "package": "Lorg/xclcharts/renderer",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lorg/xclcharts/event/touch",
+            "present": true
+        },
+        {
+            "count": 29,
+            "package": "Lorg/xclcharts/c",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/xclcharts/view",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/xclcharts/common",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/xclcharts/event/click",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lorg/xclcharts/renderer/info",
+            "present": true
+        },
+        {
+            "count": 22,
+            "package": "Lorg/xclcharts/renderer/plot",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lorg/xclcharts/event",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2652715&n.apk"
+}

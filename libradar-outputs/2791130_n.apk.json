@@ -1,0 +1,31 @@
+{
+    "count": 5,
+    "data": [
+        {
+            "count": 24,
+            "package": "Lcom/github/abel533/echarts",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/github/abel533/echarts/series/event",
+            "present": true
+        },
+        {
+            "count": 8,
+            "package": "Lcom/github/abel533/echarts/series",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/github/abel533/echarts/json",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/abel533/echarts/data",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2791130&n.apk"
+}

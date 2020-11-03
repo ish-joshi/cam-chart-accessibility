@@ -1,0 +1,41 @@
+{
+    "count": 7,
+    "data": [
+        {
+            "count": 1,
+            "package": "Lcom/xueqiu/chart/b",
+            "present": true
+        },
+        {
+            "count": 36,
+            "package": "Lcom/xueqiu/android/stockchart/e",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lcom/xueqiu/chart",
+            "present": true
+        },
+        {
+            "count": 143,
+            "package": "Lcom/xueqiu/android/stockchart",
+            "present": true
+        },
+        {
+            "count": 59,
+            "package": "Lcom/xueqiu/android/stockchart/view",
+            "present": true
+        },
+        {
+            "count": 16,
+            "package": "Lcom/xueqiu/android/stockchart/view/pankou",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/xueqiu/chart/view",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/3234682&n.apk"
+}

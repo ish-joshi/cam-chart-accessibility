@@ -1,0 +1,31 @@
+{
+    "count": 5,
+    "data": [
+        {
+            "count": 23,
+            "package": "Lcom/db/chart",
+            "present": true
+        },
+        {
+            "count": 18,
+            "package": "Lcom/db/chart/view",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/db/chart/model",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/db/chart/view/animation",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/db/chart/view/a",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.word.excel.powerpoint.reader.apk"
+}

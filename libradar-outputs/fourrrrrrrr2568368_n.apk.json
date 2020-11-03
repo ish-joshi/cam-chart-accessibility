@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil/charting/utils",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr2568368&n.apk"
+}

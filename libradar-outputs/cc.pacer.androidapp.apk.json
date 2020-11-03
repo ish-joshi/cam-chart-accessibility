@@ -1,0 +1,41 @@
+{
+    "count": 7,
+    "data": [
+        {
+            "count": 64,
+            "package": "Lcom/androidplot",
+            "present": true
+        },
+        {
+            "count": 45,
+            "package": "Lcc/pacer/androidapp/ui/common/chart",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lcom/androidplot/ui",
+            "present": true
+        },
+        {
+            "count": 33,
+            "package": "Lcom/androidplot/xy",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/androidplot/util",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/androidplot/pi",
+            "present": true
+        },
+        {
+            "count": 24,
+            "package": "Lcc/pacer/androidapp/ui/common/chart/a",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/cc.pacer.androidapp.apk"
+}

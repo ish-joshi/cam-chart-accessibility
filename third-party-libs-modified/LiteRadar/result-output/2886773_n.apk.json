@@ -1,0 +1,26 @@
+{
+    "count": 4,
+    "data": [
+        {
+            "count": 45,
+            "package": "Lcn/limc/androidcharts",
+            "present": true
+        },
+        {
+            "count": 29,
+            "package": "Lcn/limc/androidcharts/view",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcn/limc/androidcharts/b",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcn/limc/androidcharts/d",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/2886773&n.apk"
+}

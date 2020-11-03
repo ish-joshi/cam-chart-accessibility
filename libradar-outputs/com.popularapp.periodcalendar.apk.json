@@ -1,0 +1,71 @@
+{
+    "count": 13,
+    "data": [
+        {
+            "count": 3,
+            "package": "Lorg/achartengine/renderer",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lorg/achartengine/chart",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/util",
+            "present": true
+        },
+        {
+            "count": 19,
+            "package": "Lorg/achartengine",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/e",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lorg/achartengine/d",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/github/mikephil/charting/components",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/github/mikephil",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/github/mikephil/charting/c",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lorg/achartengine/c",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/model",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Lcom/github/mikephil/charting",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/github/mikephil/charting/charts",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.popularapp.periodcalendar.apk"
+}

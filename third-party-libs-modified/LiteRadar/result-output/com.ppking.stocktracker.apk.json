@@ -1,0 +1,11 @@
+{
+    "count": 1,
+    "data": [
+        {
+            "count": 9,
+            "package": "Lorg/stockchart/indicators",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.ppking.stocktracker.apk"
+}

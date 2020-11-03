@@ -1,0 +1,1 @@
+reads out nicely in cell, but ignores chart

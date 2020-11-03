@@ -1,0 +1,11 @@
+{
+    "count": 1,
+    "data": [
+        {
+            "count": 15,
+            "package": "Lorg/eazegraph/lib/charts",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/org.eazegraph.app.apk"
+}

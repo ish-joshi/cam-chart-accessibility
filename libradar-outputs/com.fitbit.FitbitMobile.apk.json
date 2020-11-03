@@ -1,0 +1,16 @@
+{
+    "count": 2,
+    "data": [
+        {
+            "count": 3,
+            "package": "Lcom/fitbit/activity/ui/charts/views",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/fitbit/activity/ui/charts",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.fitbit.FitbitMobile.apk"
+}

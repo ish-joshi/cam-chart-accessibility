@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 22,
+            "package": "Lcom/googlecode/charts4j/parameters",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Lcom/googlecode/charts4j/collect",
+            "present": true
+        },
+        {
+            "count": 50,
+            "package": "Lcom/googlecode/charts4j",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr321920&n.apk"
+}

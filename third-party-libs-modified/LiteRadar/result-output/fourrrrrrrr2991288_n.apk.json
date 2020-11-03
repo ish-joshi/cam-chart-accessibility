@@ -1,0 +1,86 @@
+{
+    "count": 16,
+    "data": [
+        {
+            "count": 10,
+            "package": "Llecho/lib/hellocharts/renderer",
+            "present": true
+        },
+        {
+            "count": 58,
+            "package": "Lcom/sanhai/psdapp/common/third/mpchart",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/g",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/animation",
+            "present": true
+        },
+        {
+            "count": 11,
+            "package": "Lcom/sanhai/psdapp/common/third/mpchart/utils",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/gesture",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lcom/sanhai/psdapp/common/third/mpchart/charts",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Llecho/lib/hellocharts/formatter",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Llecho/lib/hellocharts/f",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/sanhai/psdapp/common/third/mpchart/data",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Llecho/lib/hellocharts/computator",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Llecho/lib/hellocharts/view",
+            "present": true
+        },
+        {
+            "count": 51,
+            "package": "Llecho/lib/hellocharts",
+            "present": true
+        },
+        {
+            "count": 13,
+            "package": "Llecho/lib/hellocharts/model",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Llecho/lib/hellocharts/util",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/a",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/fourrrrrrrr2991288&n.apk"
+}

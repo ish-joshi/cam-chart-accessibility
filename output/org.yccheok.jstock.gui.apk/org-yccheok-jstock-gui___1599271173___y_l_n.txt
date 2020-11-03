@@ -1,0 +1,1 @@
+has textual description in a text view below it

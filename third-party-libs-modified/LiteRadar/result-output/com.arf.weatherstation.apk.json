@@ -1,0 +1,26 @@
+{
+    "count": 4,
+    "data": [
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/b",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lorg/achartengine/d",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lorg/achartengine/e",
+            "present": true
+        },
+        {
+            "count": 27,
+            "package": "Lorg/achartengine",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.arf.weatherstation.apk"
+}

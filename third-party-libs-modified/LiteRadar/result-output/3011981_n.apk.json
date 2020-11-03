@@ -1,0 +1,46 @@
+{
+    "count": 8,
+    "data": [
+        {
+            "count": 14,
+            "package": "Lorg/achartengine/chart",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lnet/kenyang/piechart",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/util",
+            "present": true
+        },
+        {
+            "count": 14,
+            "package": "Lorg/achartengine/c",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lorg/achartengine/tools",
+            "present": true
+        },
+        {
+            "count": 35,
+            "package": "Lorg/achartengine",
+            "present": true
+        },
+        {
+            "count": 7,
+            "package": "Lorg/achartengine/model",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lorg/achartengine/renderer",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/3011981&n.apk"
+}

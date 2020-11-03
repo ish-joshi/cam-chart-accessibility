@@ -1,0 +1,61 @@
+{
+    "count": 11,
+    "data": [
+        {
+            "count": 9,
+            "package": "Lcom/chartboost/sdk/Libraries",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/chartboost/sdk/c",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/chartboost/sdk/Model",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/b",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/InPlay",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Lcom/chartboost/sdk/Tracking",
+            "present": true
+        },
+        {
+            "count": 102,
+            "package": "Lcom/chart",
+            "present": true
+        },
+        {
+            "count": 102,
+            "package": "Lcom/chartboost/sdk",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/chartboost/sdk/d",
+            "present": true
+        },
+        {
+            "count": 71,
+            "package": "Lcom/chartboost/sdk/impl",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Lcom/chartboost/sdk/e",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.imaginstudio.imagetools.pixellab.apk"
+}

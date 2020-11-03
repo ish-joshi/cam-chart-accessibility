@@ -1,0 +1,26 @@
+{
+    "count": 4,
+    "data": [
+        {
+            "count": 289,
+            "package": "Lcom/scichart/charting",
+            "present": true
+        },
+        {
+            "count": 14,
+            "package": "Lcom/scichart/charting/numerics",
+            "present": true
+        },
+        {
+            "count": 152,
+            "package": "Lcom/scichart/charting/visuals",
+            "present": true
+        },
+        {
+            "count": 53,
+            "package": "Lcom/scichart/charting/modifiers",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.cummins.guidanz.apk"
+}

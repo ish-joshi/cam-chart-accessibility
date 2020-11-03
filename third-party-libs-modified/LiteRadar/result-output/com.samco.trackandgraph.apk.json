@@ -1,0 +1,31 @@
+{
+    "count": 5,
+    "data": [
+        {
+            "count": 68,
+            "package": "Lcom/androidplot",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/androidplot/ui",
+            "present": true
+        },
+        {
+            "count": 35,
+            "package": "Lcom/androidplot/xy",
+            "present": true
+        },
+        {
+            "count": 12,
+            "package": "Lcom/androidplot/util",
+            "present": true
+        },
+        {
+            "count": 4,
+            "package": "Lcom/androidplot/pi",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.samco.trackandgraph.apk"
+}

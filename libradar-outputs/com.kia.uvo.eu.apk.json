@@ -1,0 +1,71 @@
+{
+    "count": 13,
+    "data": [
+        {
+            "count": 10,
+            "package": "Llecho/lib/hellocharts/g",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/db/chart/a",
+            "present": true
+        },
+        {
+            "count": 24,
+            "package": "Lcom/db/chart",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Llecho/lib/hellocharts/b",
+            "present": true
+        },
+        {
+            "count": 1,
+            "package": "Lcom/db/chart/tooltip",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/gesture",
+            "present": true
+        },
+        {
+            "count": 13,
+            "package": "Lcom/db/chart/view",
+            "present": true
+        },
+        {
+            "count": 10,
+            "package": "Llecho/lib/hellocharts/f",
+            "present": true
+        },
+        {
+            "count": 5,
+            "package": "Lcom/db/chart/c",
+            "present": true
+        },
+        {
+            "count": 6,
+            "package": "Llecho/lib/hellocharts/view",
+            "present": true
+        },
+        {
+            "count": 51,
+            "package": "Llecho/lib/hellocharts",
+            "present": true
+        },
+        {
+            "count": 13,
+            "package": "Llecho/lib/hellocharts/model",
+            "present": true
+        },
+        {
+            "count": 9,
+            "package": "Llecho/lib/hellocharts/a",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.kia.uvo.eu.apk"
+}

@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "data": [
+        {
+            "count": 1,
+            "package": "Llecho/lib/hellocharts/view",
+            "present": true
+        },
+        {
+            "count": 2,
+            "package": "Llecho/lib/hellocharts/model",
+            "present": true
+        },
+        {
+            "count": 3,
+            "package": "Llecho/lib/hellocharts",
+            "present": true
+        }
+    ],
+    "filename": "../../outapks/com.devexpert.weather.apk"
+}
